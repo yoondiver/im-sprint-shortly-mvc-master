@@ -5,15 +5,15 @@
     "passes": 16,
     "pending": 0,
     "failures": 0,
-    "start": "2022-03-14T14:57:16.504Z",
-    "end": "2022-03-14T14:57:16.862Z",
-    "duration": 358
+    "start": "2022-04-01T08:23:36.319Z",
+    "end": "2022-04-01T08:23:38.203Z",
+    "duration": 1884
   },
   "tests": [
     {
       "title": "cli를 통해 필요한 파일이 자동으로 만들어졌는지 확인합니다",
       "fullTitle": "🚀 (1-1) ORM 설정 cli를 통해 필요한 파일이 자동으로 만들어졌는지 확인합니다",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -27,7 +27,7 @@
     {
       "title": "mysql에 접속할 수 있는지 확인합니다",
       "fullTitle": "🚀 (1-1) ORM 설정 mysql에 접속할 수 있는지 확인합니다",
-      "duration": 23,
+      "duration": 35,
       "currentRetry": 0,
       "err": {}
     },
@@ -41,7 +41,7 @@
     {
       "title": "url 모델은 요구하는 필드를 갖고 있어야 합니다",
       "fullTitle": "🚀 (1-2) 모델 생성 url 모델은 요구하는 필드를 갖고 있어야 합니다",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -76,49 +76,49 @@
     {
       "title": "links controller에는 get, post 메소드가 각각 존재해야 합니다",
       "fullTitle": "🚀 (2-1) controller 작성 links controller에는 get, post 메소드가 각각 존재해야 합니다",
-      "duration": 51,
+      "duration": 63,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "POST /links는 links controller의 post 메소드를 실행합니다",
       "fullTitle": "🚀 (2-2) router 연결 POST /links는 links controller의 post 메소드를 실행합니다",
-      "duration": 124,
+      "duration": 771,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "GET /links는 links controller의 get 메소드를 실행합니다",
       "fullTitle": "🚀 (2-2) router 연결 GET /links는 links controller의 get 메소드를 실행합니다",
-      "duration": 4,
+      "duration": 9,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "POST /links은 url을 받아 단축 url로 만듭니다",
       "fullTitle": "🚀 (2-3) controller 구현 POST /links은 url을 받아 단축 url로 만듭니다",
-      "duration": 98,
+      "duration": 922,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "GET /links는 urls 테이블의 목록을 JSON의 형태로 반환합니다",
       "fullTitle": "🚀 (2-3) controller 구현 GET /links는 urls 테이블의 목록을 JSON의 형태로 반환합니다",
-      "duration": 4,
+      "duration": 6,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "GET /links/:id 을 요청하면 url 필드값으로 리디렉션합니다",
       "fullTitle": "🚀 (2-3) controller 구현 GET /links/:id 을 요청하면 url 필드값으로 리디렉션합니다",
-      "duration": 13,
+      "duration": 21,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "GET /links/:id 을 요청하면, 해당 레코드의 visit count가 1 증가해야 합니다",
       "fullTitle": "🚀 (2-3) controller 구현 GET /links/:id 을 요청하면, 해당 레코드의 visit count가 1 증가해야 합니다",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     }
@@ -129,7 +129,7 @@
     {
       "title": "cli를 통해 필요한 파일이 자동으로 만들어졌는지 확인합니다",
       "fullTitle": "🚀 (1-1) ORM 설정 cli를 통해 필요한 파일이 자동으로 만들어졌는지 확인합니다",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -143,7 +143,7 @@
     {
       "title": "mysql에 접속할 수 있는지 확인합니다",
       "fullTitle": "🚀 (1-1) ORM 설정 mysql에 접속할 수 있는지 확인합니다",
-      "duration": 23,
+      "duration": 35,
       "currentRetry": 0,
       "err": {}
     },
@@ -157,7 +157,7 @@
     {
       "title": "url 모델은 요구하는 필드를 갖고 있어야 합니다",
       "fullTitle": "🚀 (1-2) 모델 생성 url 모델은 요구하는 필드를 갖고 있어야 합니다",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -192,49 +192,49 @@
     {
       "title": "links controller에는 get, post 메소드가 각각 존재해야 합니다",
       "fullTitle": "🚀 (2-1) controller 작성 links controller에는 get, post 메소드가 각각 존재해야 합니다",
-      "duration": 51,
+      "duration": 63,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "POST /links는 links controller의 post 메소드를 실행합니다",
       "fullTitle": "🚀 (2-2) router 연결 POST /links는 links controller의 post 메소드를 실행합니다",
-      "duration": 124,
+      "duration": 771,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "GET /links는 links controller의 get 메소드를 실행합니다",
       "fullTitle": "🚀 (2-2) router 연결 GET /links는 links controller의 get 메소드를 실행합니다",
-      "duration": 4,
+      "duration": 9,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "POST /links은 url을 받아 단축 url로 만듭니다",
       "fullTitle": "🚀 (2-3) controller 구현 POST /links은 url을 받아 단축 url로 만듭니다",
-      "duration": 98,
+      "duration": 922,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "GET /links는 urls 테이블의 목록을 JSON의 형태로 반환합니다",
       "fullTitle": "🚀 (2-3) controller 구현 GET /links는 urls 테이블의 목록을 JSON의 형태로 반환합니다",
-      "duration": 4,
+      "duration": 6,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "GET /links/:id 을 요청하면 url 필드값으로 리디렉션합니다",
       "fullTitle": "🚀 (2-3) controller 구현 GET /links/:id 을 요청하면 url 필드값으로 리디렉션합니다",
-      "duration": 13,
+      "duration": 21,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "GET /links/:id 을 요청하면, 해당 레코드의 visit count가 1 증가해야 합니다",
       "fullTitle": "🚀 (2-3) controller 구현 GET /links/:id 을 요청하면, 해당 레코드의 visit count가 1 증가해야 합니다",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     }
