@@ -5,15 +5,15 @@
     "passes": 16,
     "pending": 0,
     "failures": 0,
-    "start": "2022-04-14T05:28:30.092Z",
-    "end": "2022-04-14T05:28:30.588Z",
-    "duration": 496
+    "start": "2022-04-14T14:19:23.380Z",
+    "end": "2022-04-14T14:19:23.875Z",
+    "duration": 495
   },
   "tests": [
     {
       "title": "cli를 통해 필요한 파일이 자동으로 만들어졌는지 확인합니다",
       "fullTitle": "🚀 (1-1) ORM 설정 cli를 통해 필요한 파일이 자동으로 만들어졌는지 확인합니다",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -41,7 +41,7 @@
     {
       "title": "url 모델은 요구하는 필드를 갖고 있어야 합니다",
       "fullTitle": "🚀 (1-2) 모델 생성 url 모델은 요구하는 필드를 갖고 있어야 합니다",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -76,42 +76,42 @@
     {
       "title": "links controller에는 get, post 메소드가 각각 존재해야 합니다",
       "fullTitle": "🚀 (2-1) controller 작성 links controller에는 get, post 메소드가 각각 존재해야 합니다",
-      "duration": 64,
+      "duration": 62,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "POST /links는 links controller의 post 메소드를 실행합니다",
       "fullTitle": "🚀 (2-2) router 연결 POST /links는 links controller의 post 메소드를 실행합니다",
-      "duration": 177,
+      "duration": 157,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "GET /links는 links controller의 get 메소드를 실행합니다",
       "fullTitle": "🚀 (2-2) router 연결 GET /links는 links controller의 get 메소드를 실행합니다",
-      "duration": 6,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "POST /links은 url을 받아 단축 url로 만듭니다",
       "fullTitle": "🚀 (2-3) controller 구현 POST /links은 url을 받아 단축 url로 만듭니다",
-      "duration": 137,
+      "duration": 156,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "GET /links는 urls 테이블의 목록을 JSON의 형태로 반환합니다",
       "fullTitle": "🚀 (2-3) controller 구현 GET /links는 urls 테이블의 목록을 JSON의 형태로 반환합니다",
-      "duration": 5,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "GET /links/:id 을 요청하면 url 필드값으로 리디렉션합니다",
       "fullTitle": "🚀 (2-3) controller 구현 GET /links/:id 을 요청하면 url 필드값으로 리디렉션합니다",
-      "duration": 18,
+      "duration": 17,
       "currentRetry": 0,
       "err": {}
     },
@@ -129,7 +129,7 @@
     {
       "title": "cli를 통해 필요한 파일이 자동으로 만들어졌는지 확인합니다",
       "fullTitle": "🚀 (1-1) ORM 설정 cli를 통해 필요한 파일이 자동으로 만들어졌는지 확인합니다",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -157,7 +157,7 @@
     {
       "title": "url 모델은 요구하는 필드를 갖고 있어야 합니다",
       "fullTitle": "🚀 (1-2) 모델 생성 url 모델은 요구하는 필드를 갖고 있어야 합니다",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -192,42 +192,42 @@
     {
       "title": "links controller에는 get, post 메소드가 각각 존재해야 합니다",
       "fullTitle": "🚀 (2-1) controller 작성 links controller에는 get, post 메소드가 각각 존재해야 합니다",
-      "duration": 64,
+      "duration": 62,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "POST /links는 links controller의 post 메소드를 실행합니다",
       "fullTitle": "🚀 (2-2) router 연결 POST /links는 links controller의 post 메소드를 실행합니다",
-      "duration": 177,
+      "duration": 157,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "GET /links는 links controller의 get 메소드를 실행합니다",
       "fullTitle": "🚀 (2-2) router 연결 GET /links는 links controller의 get 메소드를 실행합니다",
-      "duration": 6,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "POST /links은 url을 받아 단축 url로 만듭니다",
       "fullTitle": "🚀 (2-3) controller 구현 POST /links은 url을 받아 단축 url로 만듭니다",
-      "duration": 137,
+      "duration": 156,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "GET /links는 urls 테이블의 목록을 JSON의 형태로 반환합니다",
       "fullTitle": "🚀 (2-3) controller 구현 GET /links는 urls 테이블의 목록을 JSON의 형태로 반환합니다",
-      "duration": 5,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "GET /links/:id 을 요청하면 url 필드값으로 리디렉션합니다",
       "fullTitle": "🚀 (2-3) controller 구현 GET /links/:id 을 요청하면 url 필드값으로 리디렉션합니다",
-      "duration": 18,
+      "duration": 17,
       "currentRetry": 0,
       "err": {}
     },
